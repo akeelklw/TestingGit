@@ -1,5 +1,2 @@
 # TestingGit
-welcome
-
-ABC SLkjlkjlk
-lkajsldkjfl
+All Done 
